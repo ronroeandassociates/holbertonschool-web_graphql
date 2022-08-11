@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ron Olsen",
   "license": "ISC",
   "dependencies": {
     "apollo-boost": "^0.4.9",
